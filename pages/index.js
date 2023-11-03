@@ -42,9 +42,9 @@ const Index = () => {
             <div className="col-lg-7 wow fadeInUp delay-0-2s">
               <div className="section-title mb-20">
                 <span className="sub-title mb-20">
-                  Popular Foods and Vegetables
+                  Popular Peanut Butter
                 </span>
-                <h2>Quality Fruits &amp; Vegetables</h2>
+                <h2>Quality Peanut &amp; Items</h2>
               </div>
             </div>
             <div className="col-lg-5 wow fadeInUp delay-0-4s">
@@ -81,7 +81,7 @@ const Index = () => {
                 <img src="assets/images/category/icon3.png" alt="Icon" />
               </div>
               <h5>
-                <Link href="/services">Sea Fish’s</Link>
+                <Link href="/services">Sea Fis’s</Link>
               </h5>
               <img src="assets/images/category/arrow.png" alt="Arrow" />
             </div>

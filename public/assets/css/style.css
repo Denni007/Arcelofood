@@ -357,8 +357,7 @@ a.theme-btn {
   .theme-btn:hover,
   a.theme-btn:hover {
     background: #76a713; }
-    .theme-btn:hover i,
-    a.theme-btn:hover i {
+    git add README.md    a.theme-btn:hover i {
       margin-left: 13px;
       margin-right: -3px; }
   .theme-btn.style-two,
