@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"index.js -> ../src/components/MunfimCountdown":{"id":"index.js -> ../src/components/MunfimCountdown","files":["static/chunks/src_components_MunfimCountdown_js.js"]}}
